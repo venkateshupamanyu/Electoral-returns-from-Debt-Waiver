@@ -1,4 +1,7 @@
 # Electoral-returns-from-debt-waiver
+Welfare programs are often scrutinized for resource redistribution for political gains. We investigate the Agricultural Debt Waiver and Debt Relief Scheme of 2008 in India which is one of the largest debt waiver programs in the world. Using a novel dataset created to compare constituencies before and after the 2008 redistricting exercise, we find that the 2008 waiver led to higher number of seats for the incumbent in subsequent general elections though its effect on vote share remained muted. We find that the incumbent party performed better in large states ruled by neutral parties. Along with the announcement effect that was present in initial elections, an analysis of subsequent state elections shows that implementation quality also fetched more seats. Our findings provide more evidence on the political capture of public resources for electoral gains through programmatic design of the scheme and insights into temporal nature of voter preferences.
+
+
 Stata codes for Electoral returns from debt waiver project
 
 1 - Data cleaning for 2004 general elections.do
